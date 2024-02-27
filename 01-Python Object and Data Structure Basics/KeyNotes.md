@@ -15,3 +15,19 @@
 
 1.) Integers which are whole numbers.
 2.) Floating Point numbers which are numbers with a decimal.
+
+## Error Key
+
+powershell Set-ExecutionPolicy RemoteSigned
+
+## Variable Assignment Rules
+
+Names cannot start with a number.
+There can be no spaces in the name, use _ instead.
+Symbols not allowed: `:'",<>/?|\()!@#$%^&*~-+`
+
+Example:
+
+- `variable_name`
+- `my_variable`
+- `important_variable`
