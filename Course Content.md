@@ -10,3 +10,26 @@
 | 8  | Data Structures and Algorithms | Various data structures like lists, tuples, dictionaries, sets, stacks, queues, trees, graphs, and algorithms. | [Link](#) |
 | 9  | Python for Analytics            | Using Python libraries like NumPy, Pandas, Matplotlib, and Seaborn for data analysis, manipulation, visualization, and statistical modeling. | [Link](#) |
 | 10 | Python for Data Engineering     | Using Python for data processing, data pipelines, ETL, data warehousing, and data integration.           | [Link](#)             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
